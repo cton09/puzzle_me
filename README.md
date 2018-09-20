@@ -1,3 +1,4 @@
-# This is the heading
+# Puzzle Me
 
-This is some page content in *italics*
+Welcome to Puzzle Me, a game designed by:
+	Carrington Murphy, Ted Palmer, Jacob Holton
